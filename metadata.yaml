@@ -1,0 +1,31 @@
+_repo: Seta-Frans_52076
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blicher-Clausen, J. (Jenny)
+    aliases:
+    - Blicher-Clausen, Jenny
+    - Nøkken
+    - Blicher, Jenny
+    - Nokken
+    - Bentsen, John
+    - Blicher, I.
+    birthdate: 1865
+    deathdate: 1907
+    gutenberg_agent_id: '32826'
+    url: http://www.gutenberg.org/2009/agents/32826
+description: ''
+gutenberg_issued: '2016-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52076'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Danish fiction -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: Setä Frans
+url: http://www.gutenberg.org/ebooks/52076
